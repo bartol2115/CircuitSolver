@@ -1,12 +1,12 @@
 # CircuitSolver
 
 ## Project Description
-A C++ console application designed for Direct and Alternating Current circuit analysis. The program calculates parameters for various passive elements and power sources based on fundamental electrical engineering principles.
+A C++ console application designed for Direct and Alternating Current (DC) circuit analysis. The program calculates parameters for various passive elements and power sources based on fundamental electrical engineering principles.
 
 ## Features
 * Calculation of currents and voltages in circuit branches.
-* Support for passive elements (resistors, capacitors, inductors) and energy sources (voltage/current).
-* Implementation of Modyfied nodal analysis, with Gauss's elimination method
+* Support for passive elements (resistors) and energy sources (voltage/current).
+* Implementation of Modified Nodal Analysis with Gauss's elimination method
 
 ## Technical Stack
 * **Language:** C++
@@ -14,5 +14,5 @@ A C++ console application designed for Direct and Alternating Current circuit an
 * **Standard:** C++17 / C++20
 
 ## How to Run
-1. Download the `CircuitSolver.exe` file from the [Releases](../../releases) section.
+1. Download the `CircuitSolver.exe` file from the [Releases]
 2. Run the file using the Windows Command Prompt (CMD) or PowerShell.
